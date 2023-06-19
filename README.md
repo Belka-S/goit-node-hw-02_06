@@ -1,6 +1,6 @@
 https://fex.net/ru/s/lsbtepv
 
-# useage
+# usage
 
 ! **[1]** npm start
 
